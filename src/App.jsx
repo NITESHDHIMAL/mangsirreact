@@ -10,7 +10,6 @@ const App = () => {
 
   return (
     <>
-
       <Layout>
         <Routes>
           <Route path="" element={<Home />} />
